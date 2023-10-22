@@ -7,6 +7,8 @@ export default function Signup() {
       <input type="text" placeholder='Full Name'/><br />
       <input type="text" placeholder='Phone number,username, or email'/><br />
       <input type="password" placeholder='Password'/><br />
+      <span>have an account?</span><span>Sign In</span>
+      
     </div>
   )
 }
